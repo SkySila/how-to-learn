@@ -162,6 +162,8 @@
 }
 
 .section-title_theme_dark {
+  /*Заголовок блока Кауфман явно белого цвета, проверил в online color picker*/
+  /*В остальных местах цвет из брифа, #f2f2f2*/
   color: #fff;
   /*чтобы текст тёмной таблицы был поверх синего треугольника*/
   z-index: 1;
@@ -178,7 +180,7 @@
 }
 
 .section-subtitle_theme_dark {
-  color: #fff;
+  color: #f2f2f2;
   /*чтобы текст тёмной таблицы был поверх синего треугольника*/
   z-index: 1;
 }
@@ -208,7 +210,7 @@
   padding: 0;
 
   width: 200px;
-  color: #fff;
+  color: #f2f2f2;
   margin-right: 0;
   margin-top: 80px;
 }
@@ -343,7 +345,7 @@
 
 .footer__author {
   padding: 0;
-  color: #fff;
+  color: #f2f2f2;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
@@ -353,7 +355,7 @@
 .footer__column-heading {
   margin: 0;
   padding: 0;
-  color: #fff;
+  color: #f2f2f2;
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
@@ -368,7 +370,7 @@
 .footer__column-link {
   margin: 0;
   padding: 0;
-  color: #fff;
+  color: #f2f2f2;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
