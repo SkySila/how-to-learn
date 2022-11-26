@@ -1,0 +1,5 @@
+.section-subtitle_theme_dark {
+  color: #f2f2f2;
+  /*чтобы текст тёмной таблицы был поверх синего треугольника*/
+  z-index: 1;
+}
