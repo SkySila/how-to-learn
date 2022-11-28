@@ -5,6 +5,7 @@
   font-size: 30px;
   font-weight: normal;
   vertical-align:top;
+  white-space: nowrap;
 }
 
 .khan__buy-link:hover{
